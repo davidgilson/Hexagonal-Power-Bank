@@ -1,8 +1,6 @@
 # Hexagonal-Power-Bank
 Assembly guide and 3D printing models for my modular 18 cell power bank
 
-![image](./images/banner-sml2.jpg)
-
 ![image](./images/banner-sml3.jpg)
 
 0. ## Contents
@@ -325,6 +323,8 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			`Print:` 2x [fleximount.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/fleximount.stl)
 
 			![image](./images/35.jpg) ![image](./images/36.jpg)
+
+			![image](./images/banner-sml2.jpg)
 		
 
 	1. ### Port Covers
