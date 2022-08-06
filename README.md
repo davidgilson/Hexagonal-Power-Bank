@@ -337,7 +337,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 	1. ### Decorative Base
 		`Print:` [shoe-batt-orange.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/shoe-batt-orange.stl) **ON TOP OF** [shoe-batt-black.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/shoe-batt-black.stl)
 		
-		This is just a *for fun* Addition. Use the same two color approach as described for the wireless logo on the lid. Once printed, use gorilla glue to fix this onto the base of the power bank. There's no functional reason to do this, it's just an easter egg, and might hid any ugly first layer on your case.
+		This is just a *for fun* Addition. Use the same two color approach as described for the wireless logo on the lid. Once printed, use gorilla glue to fix this onto the base of the power bank. There's no functional reason to do this, it's just an easter egg, and might hide an ugly first layer on your case.
 	
 		![image](./images/39.jpg) ![image](./images/40.jpg)
 
