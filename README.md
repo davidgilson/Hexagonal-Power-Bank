@@ -115,10 +115,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		
 		`Tools: Spot welder, rubber mallet (optional), soldering iron, scissors, wire snips, exacto knife or wirestrippers.`
 		
-		***!!! Note: Ignore the layout/polariteies of the batteries in these photos. See the Wiring graphic below for a better layout !!!***
-		
 		1. First, print two copies of `Cell-Holder-Plate.stl`.   
-		![image](./images/09.jpg)
 		
 		1. Then stand your batteries in one of the prints, and slot the second one around the top of the cells. Depending on the tollerances of your printer and the thickness of the shirnk wrap on the batteries, a some gentle *percussive persausion* may be needed (rubber mallet is good for this).  
 		![image](./images/10.jpg)
