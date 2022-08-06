@@ -136,7 +136,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		
 			1. This is where we start spot welding. I will assume you have experience of this. When I built my pack, I set my cells in a 3S6P configuration, but you may be using something else (6S3P, 1S18P), so my advice here as guidance.
 			
-			1. Because of the hexagonal shape, battery placement is more complicated than a simple grid layout. The main concern is to keep equal voltages together, and not to mix areas of common voltage. Otherwise, when you connect them in parallel there will be many places where short circuits (i.e. sparks) could happen. See the graphic below  
+			1. Because of the hexagonal shape, battery placement is more complicated than a simple grid layout. The main concern is to keep equal voltages together in the same area. Otherwise, when you connect them in parallel there will be many places where short circuits (i.e. sparks) could happen. See the graphic below  
 			![image](./images/wiring.png)
 			
 			1. Once the batteries are connected with nickel strips, we need to add wires that will then be connected to the BMS. My solution was solder the ends of the wires to a nickel strip, cover the solder joint with shrink tube, then spot weld the exposed strip to the strips we have welded to the batteries.  
