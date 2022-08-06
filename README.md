@@ -99,15 +99,15 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 
 1. ## Assembly
 	1. ### Casing
-		`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/case-FINAL.stl)[case-FINAL.stl].`
+		`Print: [case-FINAL.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/case-FINAL.stl).`
 	
 		This is the largest single piece. This is what everyting else attaches to, so no other instructions needed!
 		
 		![image](./images/08.png)
 	1. ### Cell Cage
-		`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Cell-Holder-Plate.stl)[Cell-Holder-Plate.stl], Qty 2.`
+		`Print: [Cell-Holder-Plate.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Cell-Holder-Plate.stl), Qty 2.`
 		
-		`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Cell-Holder-Strut.stl)[Cell-Holder-Strut.stl], Qty 12.`
+		`Print: [Cell-Holder-Strut.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Cell-Holder-Strut.stl), Qty 12.`
 		
 		`Electronic parts: BMS and heatsinks.`
 		
@@ -160,7 +160,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			1. If you want to be able to use an external balance charger, you'll also need to solder the balance lead to these pads too. See the previous image for an example.
 		
 		1. #### Installing into Case 
-			`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Holding%20Bracket%20v4.stl)[Holding Bracket v4.stl].`
+			`Print: [Holding Bracket v4.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Holding%20Bracket%20v4.stl).`
 			
 			`Requirements: Holding Bracket v4.stl, case-FINAL.stl, 5x M2x25mm bolts/screws, screwdriver (preferably powered).`
 			
@@ -178,9 +178,9 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		The lid of this park was made to be interchangeable. So far, I only have one design, so there's nothing to interchange it with! I invite you to redesign and create your own lid with all the ports and electronics that you need for your projects. I designed all of this in Blender, rather than a CAD package, simply because it's what I use in my day job, so it was the quickest way to get what I needed.
 
 		1. #### Lower Lid
-			`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/lower-lid-FINAL.stl)[lower-lid-FINAL.stl]`
+			`Print: [lower-lid-FINAL.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/lower-lid-FINAL.stl)`
 			or
-			`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/lower-lid-no-cut-outs.stl)[lower-lid-no-cut-outs.stl] (modify to your own specs)`
+			`Print: [lower-lid-no-cut-outs.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/lower-lid-no-cut-outs.stl) (modify to your own specs)`
 
 			The 'no cut outs' STL is supplied so that you can remix the design to whatever set of ports and electronic modules you wish to use in your build. For example, the configuration presented here has a 3S battery configuration. However, if you go for 1S or 6S, you will need either no balance port, or a 6s balance port. You may also use different USB charging modules. It's your choice.
 
@@ -223,16 +223,16 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 
 
 		1. #### Mid Lid Extension
-			`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Lid-extender.stl)[Lid-extender.stl] (scale height to your own needs)`
+			`Print: [Lid-extender.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Lid-extender.stl) (scale height to your own needs)`
 
 			I created this section because I underestimated how much space would be needed for all the cables. With your own set up, you may scale the height to whatever, or not even include it at all.
 
 		1. #### Upper Lid
-			`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Upper%20Lid%20(no%20cut-out).stl)[Upper Lid (no cut-out).stl]`
+			`Print: [Upper Lid (no cut-out).stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Upper%20Lid%20(no%20cut-out).stl)`
 
 			or
 
-			`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Upper%20Lid%20(cut-out).stl)[Upper Lid (cut-out).stl] **ON TOP OF** (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/wireless-logo.stl)[wireless-logo.stl].`
+			`Print: [Upper Lid (cut-out).stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Upper%20Lid%20(cut-out).stl) **ON TOP OF** [wireless-logo.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/wireless-logo.stl).`
 
 			`Requirements:`
 			* Wireless charging module
@@ -258,7 +258,8 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			![image](./images/26.jpeg) ![image](./images/27.jpeg)
 
 		1. #### Lid Assembly
-			`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/JST%20Glue%20in%20Support.stl)[JST Glue in Support.stl], (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Meter%20Holder.stl)[Meter-Holder.stl], (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Meter-button-cover.stl)[Meter-button-cover.stl]`
+			`Print: [JST Glue in Support.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/JST%20Glue%20in%20Support.stl), [Meter-Holder.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Meter%20Holder.stl), [Meter-button-cover.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Meter-button-cover.stl)`
+			
 			`Requirements:`
 			* Lower Lid (4.3.1)
 			* Cabling Harness (4.3.2)
@@ -315,25 +316,25 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		In each case, the handles are fitted on top of the lid section and held in place by the existing M3 long bolts.
 
 		1. #### Heavy Duty
-			`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/HeavyDutyHandle.stl)[HeavyDutyHandle.stl]`
+			`Print: [HeavyDutyHandle.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/HeavyDutyHandle.stl)`
 
 			![image](./images/33.jpg) ![image](./images/34.jpg)
 
 		1. #### Flexible Handle Mounts
-			`Print: 2x (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/fleximount.stl)[fleximount.stl]`
+			`Print: 2x [fleximount.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/fleximount.stl)`
 
 			![image](./images/35.jpg) ![image](./images/36.jpg)
 		
 
 	1. ### Port Covers
-		`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/xt60-cover.stl)[xt60-cover.stl] & (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Balance-Cover.stl)[Balance-Cover.stl]`
+		`Print: [xt60-cover.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/xt60-cover.stl) & [Balance-Cover.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Balance-Cover.stl)`
 
 		These are optional covers to protect the live contacts from being short circuited.
 
 		![image](./images/37.jpg) ![image](./images/38.jpg)
 
 	1. ### Decorative Base
-		`Print: (https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/shoe-batt-orange.stl)[shoe-batt-orange.stl] **ON TOP OF** [https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/shoe-batt-black.stl](shoe-batt-black.stl)`
+		`Print: [shoe-batt-orange.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/shoe-batt-orange.stl) **ON TOP OF** [shoe-batt-black.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/shoe-batt-black.stl)`
 		
 		This is just a *for fun* Addition. Use the same two color approach as described for the wireless logo on the lid. Once printed, use gorilla glue to fix this onto the base of the power bank. There's no functional reason to do this, it's just an easter egg, and might hid any ugly first layer on your case.
 	
