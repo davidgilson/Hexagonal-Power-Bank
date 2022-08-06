@@ -27,7 +27,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			+ Burn your skin
 			+ Start fires
 	* The nickel strips you will be spot welding with are sharp and it is too easy to cut yourself.  
-	Ask me how I know!  
+	_Ask me how I know! _
 	![image](./images/01.jpg)
 		- If you have to remove a Nickel strip that has been spot welded, use tools rather than fingers, BUT BEWARE OF ELECTRICAL SHORTS!
 	* When spot welding, wear safety glasses.
