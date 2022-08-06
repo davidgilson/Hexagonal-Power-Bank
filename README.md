@@ -340,6 +340,8 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		![image](./images/39.jpg) ![image](./images/40.jpg)
 
 1. ## Charging
+	![image](./images/charging-banner.jpg)
+
 	This is the subject that most concerns me about letting this design out into the wild. You really need to be familiar with lithium battery charging, **AND** the specifications of the batteries you have selected.  Do your due diligence and proceed with caution - success or failure is on your shoulders, not mine. Note that 'failure' will involve fire and destruction of property and potentially life. So please be careful, and ***NEVER CHARGE WHILE UNATTENDED.***
 
 	As a rule of thumb, always charge Lithium Ion cells at a **0.5 C rate**, no faster. In my example, I used 5Ah cells, in 3S6P configuration. This meant I had a total capacity of 30Ah (at 3S or 12.6V). Therefore, `0.5C * 30Ah = 15 Amps maximum charging rate`.
