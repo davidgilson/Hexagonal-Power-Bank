@@ -11,6 +11,10 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		1. [Casing](#Casing)
 		2. [Cell Cage](#cell-cage)
 		3. [Lid Section](#lid-section)
+		4. [Install lid module onto Case](#installing-lid-onto-case)
+		5. [Handle Options](#handles)
+		6. [Port Covers](#port-covers)
+		7. [Decorative Base](#decorative-base)
 	5. [Charging](#Charging)
 
 0. ## Warnings and Disclaimers
