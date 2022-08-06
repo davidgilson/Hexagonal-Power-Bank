@@ -1,6 +1,8 @@
 # Hexagonal-Power-Bank
 Assembly guide and 3D printing models for my modular 18 cell power bank
 
+![image](./images/banner-sml2.jpg)
+
 ![image](./images/banner-sml3.jpg)
 
 0. ## Contents
@@ -11,10 +13,6 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		1. [Casing](#Casing)
 		2. [Cell Cage](#cell-cage)
 		3. [Lid Section](#lid-section)
-		4. [Install lid module onto Case](#installing-lid-onto-case)
-		5. [Handle Options](#handles)
-		6. [Port Covers](#port-covers)
-		7. [Decorative Base](#decorative-base)
 	5. [Charging](#Charging)
 
 0. ## Warnings and Disclaimers
@@ -132,7 +130,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		1. Leave the assembly on some paper towel (or other disposable surface), and leave a few hours for the glue to set.
 		
 		1. #### Wiring
-			`Print:` [Strip-cover.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Strip-Cover.stl)
+			`Print: ` [Strip-cover.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Strip-Cover.stl)
 		
 			`Requirements: 16awg wire, nickel strip, spot welder, soldering iron and solder, shrink tube.`
 		
@@ -180,7 +178,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			![image](./images/19.jpg)
 		
 	1. ### Lid Section
-		The lid of this park was made to be interchangeable. So far, I only have one design, so there's nothing to interchange it with! I invite you to redesign and create your own lid with all the ports and electronics that you need for your projects. I designed all of this in Blender, rather than a CAD package, simply because it's what I use in my day job, so it was the quickest way to get what I needed.
+		The lid of this pack was made to be interchangeable. So far, I only have one design, so there's nothing to interchange it with! I invite you to redesign and create your own lid with all the ports and electronics that you need for your projects. I designed all of this in Blender, rather than a CAD package, simply because it's what I use in my day job, so it was the quickest way to get what I needed.
 
 		1. #### Lower Lid
 			`Print:` [lower-lid-FINAL.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/lower-lid-FINAL.stl) **OR** [lower-lid-no-cut-outs.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/lower-lid-no-cut-outs.stl) (modify this model to your own specs)
@@ -327,8 +325,6 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			`Print:` 2x [fleximount.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/fleximount.stl)
 
 			![image](./images/35.jpg) ![image](./images/36.jpg)
-
-			![image](./images/banner-sml2.jpg)
 		
 
 	1. ### Port Covers
@@ -341,7 +337,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 	1. ### Decorative Base
 		`Print:` [shoe-batt-orange.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/shoe-batt-orange.stl) **ON TOP OF** [shoe-batt-black.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/shoe-batt-black.stl)
 		
-		This is just a *for fun* Addition. Use the same two color approach as described for the wireless logo on the lid. Once printed, use gorilla glue to fix this onto the base of the power bank. There's no functional reason to do this, it's just an easter egg, and might hide an ugly first layer on your case.
+		This is just a *for fun* Addition. Use the same two color approach as described for the wireless logo on the lid. Once printed, use gorilla glue to fix this onto the base of the power bank. There's no functional reason to do this, it's just an easter egg, and might hid any ugly first layer on your case.
 	
 		![image](./images/39.jpg) ![image](./images/40.jpg)
 
@@ -350,5 +346,5 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 
 	This is the subject that most concerns me about letting this design out into the wild. You really need to be familiar with lithium battery charging, **AND** the specifications of the batteries you have selected.  Do your due diligence and proceed with caution - success or failure is on your shoulders, not mine. Note that 'failure' will involve fire and destruction of property and potentially life. So please be careful, and ***NEVER CHARGE WHILE UNATTENDED.***
 
-	As a rule of thumb, always charge Lithium Ion cells at a **0.5 C rate**, no faster. In my example, I used 5Ah cells, in 3S6P configuration. This meant I had a total capacity of 6*5Ah = 30Ah (at 3S/12.6V). Therefore, `0.5C * 30Ah = 15 Amps maximum charging rate`.
+	As a rule of thumb, always charge Lithium Ion cells at a **0.5 C rate**, no faster. In my example, I used 5Ah cells, in 3S6P configuration. This meant I had a total capacity of 30Ah (at 3S or 12.6V). Therefore, `0.5C * 30Ah = 15 Amps maximum charging rate`.
 
