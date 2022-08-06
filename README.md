@@ -128,7 +128,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		1. Leave the assembly on some paper towel (or other disposable surface), and leave a few hours for the glue to set.
 		
 		1. #### Wiring
-			`Print: ` [Strip-cover.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Strip-Cover.stl)
+			`Print:` [Strip-cover.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Strip-Cover.stl)
 		
 			`Requirements: 16awg wire, nickel strip, spot welder, soldering iron and solder, shrink tube.`
 		
