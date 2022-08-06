@@ -1,8 +1,6 @@
 # Hexagonal-Power-Bank
 Assembly guide and 3D printing models for my modular 18 cell power bank
 
-![image](./images/banner-sml2.jpg)
-
 ![image](./images/banner-sml3.jpg)
 
 0. ## Contents
