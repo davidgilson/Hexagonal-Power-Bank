@@ -38,7 +38,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 	
 	Did I need to make this? Not really, but I find the process incredibly therapeutic. I believe a lot of us in the FPV hobby get the same effect. You know what I'm talking about!
 	
-	I never intended to release plans for this project. However, it was gratifying to receive all the positive attention on the various Facebook groups I posted to. So much so, that various people have ended up contributing to tweaks of the design (I apologise for not keeping a list of all your names).
+	I never intended to release plans for this project. However, it was gratifying to receive all the positive attention on the various Facebook groups I posted to. So much so, that various people have ended up contributing to tweaks of the design (I apologize for not keeping a list of all your names).
 	
 	So, here's a guide as a **THANK YOU** to everyone!
 
@@ -57,7 +57,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		- 2x M2 nuts
 	* **Adhesives**:
 		- Cyanoacrylate (e.g., Gorilla Glue), used for places where the prints needs to be permanently bonded.
-		- E6000. This stuff holds on very hard. It sets like rubber so can be peeled off if nedded. Best of both worlds.
+		- E6000. This stuff holds on very hard. It sets like rubber so can be peeled off if needed. Best of both worlds.
 	* **Electronic Modules**:
 		- Battery Management System (BMS)  
 			+ There are a lot of options out there, and so you'll have to get something that suits your battery configuration. My build was 3S6P with cells rated for 10 Amps. I used a 40 Amp BMS which meant that the cells would never get too taxed.
@@ -82,7 +82,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			+ ![image](./images/07.jpg)
 	- Electrical connections
 		+ 18 gauge wire for charging modules
-		+ 16 gauge wire for main power busses
+		+ 16 gauge wire for main power buses
 		+ Nickel Strip (thickness will depend on your spot welder)
 		+ Any kind of 2 pin male-female connector pair (for the wireless pad)
 		+ XT60E-M (male panel mount)
@@ -90,7 +90,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		+ XT60-M
 		+ JST-XH 4 pin, (2x male)
 		+ JST-XH 4 pin female lead. (Assuming a 3S configuration)
-		+ Self adhesive heatsinks (e.g. for a Raspberry Pi) for BMS cooling.
+		+ Self adhesive heat sinks (e.g. for a Raspberry Pi) for BMS cooling.
 		+ [Mini Racewire](https://www.flyingtech.co.uk/cables-connectors/tbswhitenoisefpv-x-tbs-race-wire-pcb-full-mini-set-6#:~:text=Race%20Wire%20is%20the%20perfect,of%20the%20Race%20Wire%20board.) - optional but useful for connecting all the modules together in parallel.
 		+ 30cm Velcro battery strap (This is an optional part for one of the handle mounts) 	
 	- **Consumables**
@@ -103,7 +103,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 	1. ### Casing
 		`Print:` [case-FINAL.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/case-FINAL.stl).
 	
-		This is the largest single piece. This is what everyting else attaches to, so no other instructions needed!
+		This is the largest single piece. This is what everything else attaches to, so no other instructions needed!
 		
 		![image](./images/08.png)
 	1. ### Cell Cage
@@ -111,15 +111,15 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		
 		`Print:` [Cell-Holder-Strut.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Cell-Holder-Strut.stl), Qty 12.
 		
-		`Electronic parts: BMS and heatsinks.`
+		`Electronic parts: BMS and heat sinks.`
 		
 		`Other materials: glue, batteries, nickel strips, kapton tape, shrink tube, 16 gauge wire, 3S balance lead, XT60 (female) connector.`
 		
-		`Tools: Spot welder, rubber mallet (optional), soldering iron, scissors, wire snips, exacto knife or wirestrippers.`
+		`Tools: Spot welder, rubber mallet (optional), soldering iron, scissors, wire snips, exacto knife or wire strippers.`
 		
 		1. First, print two copies of [Cell-Holder-Plate.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Cell-Holder-Plate.stl).   
 		
-		1. Then stand your batteries in one of the prints, and slot the second one around the top of the cells. Depending on the tolerances of your printer and the thickness of the shirnk wrap on the batteries, a some gentle *percussive persuasion* may be needed (rubber mallet is good for this).  
+		1. Then stand your batteries in one of the prints, and slot the second one around the top of the cells. Depending on the tolerances of your printer and the thickness of the shrink wrap on the batteries, a some gentle *percussive persuasion* may be needed (rubber mallet is good for this).  
 		![image](./images/10.jpg)
 		
 		1. Print twelve copies of [Cell-Holder-Strut.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Cell-Holder-Strut.stl).
@@ -142,7 +142,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			1. Once the batteries are connected with nickel strips, we need to add wires that will then be connected to the BMS. My solution was solder the ends of the wires to a nickel strip, cover the solder joint with shrink tube, then spot weld the exposed strip to the strips we have welded to the batteries.  
 			![image](./images/12.jpg)
 			
-			1. Once they are connected to the batteries, cover in kaptop tape to prevent accidental short circuits. It should then look like this:  
+			1. Once they are connected to the batteries, cover in kapton tape to prevent accidental short circuits. It should then look like this:  
 			![image](./images/14.jpg) ![image](./images/13.jpg)
 			
 			1. Finally, print two copies of [Strip-cover.stl](https://github.com/davidgilson/Hexagonal-Power-Bank/blob/main/STL/Strip-Cover.stl). This is a thin layer of plastic to provide some stronger protection to the top and bottom of the cell assembly. Affix it with either a non-permanent glue or some electrical tape.  
@@ -151,14 +151,14 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		1. #### Add BMS
 			`Requirements: BMS, heat sinks (optional), non-permanent glue (e.g. E6000), XT60 (female) connector, 3S balance lead`
 		
-			1. Solder two 16awg wires to a female XT60 connector (roughly 3" to 4"), and add the heatsinks to the BMS FETS if you expect to be pulling high current.
+			1. Solder two 16awg wires to a female XT60 connector (roughly 3" to 4"), and add the heat sinks to the BMS FETS if you expect to be pulling high current.
 			
 			1. Tin the pads on the BMS, and solder the XT60 lead to the P+ and P- pads.![image](./images/16.jpg)
 			
-			1. Next, glue the BMS to the top PLA cover sheet, positioned as shown in the next image (position matters for how it will be installed into the case later). I reccomend spreading E6000 around with a spatula!  
+			1. Next, glue the BMS to the top PLA cover sheet, positioned as shown in the next image (position matters for how it will be installed into the case later). I recommend spreading E6000 around with a spatula!  
 			![image](./images/17.jpg)
 			
-			1. Next, you'll need to solder all the wires to the BMS. Here you can trim the wires to the optimum length. Some BMS boards have their pads labelled with their corresponding voltage, some have "B0/B-", "B1" "B2", "B3/B+". Just connect them up in ascending voltage order.
+			1. Next, you'll need to solder all the wires to the BMS. Here you can trim the wires to the optimum length. Some BMS boards have their pads labeled with their corresponding voltage, some have "B0/B-", "B1" "B2", "B3/B+". Just connect them up in ascending voltage order.
 			
 			1. If you want to be able to use an external balance charger, you'll also need to solder the balance lead to these pads too. See the previous image for an example.
 		
@@ -167,14 +167,14 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			
 			`Requirements: Holding Bracket v4.stl, case-FINAL.stl, 5x M2x25mm bolts/screws, screwdriver (preferably powered).`
 			
-			1. Slide the battery cage (*can we call it the **POWER CORE**, please?*) into the case (`case-FINAL.stl`). If your tollerances are right, there should be a little friction, but not so much that cannot be overcome by the weight of the batteries.
+			1. Slide the battery cage (*can we call it the **POWER CORE**, please?*) into the case (`case-FINAL.stl`). If your tolerances are right, there should be a little friction, but not so much that cannot be overcome by the weight of the batteries.
 			
 			1. Lay the holding bracket (`Holding Bracket v4.stl`) on top top of the battery cage, around the BMS, and line up with the internal screw holes in the casing.
 			
 			1. Screw in the M2 bolts. I recommend a powered screw driver or drill, because for the first time the screws will be tapping into the plastic.  
 			![image](./images/18.jpg)
 			
-			1. Make sure the pressure is evenly distributed, and that the battery cage is fully immobilised. As ever, be careful not to over tighten.  
+			1. Make sure the pressure is evenly distributed, and that the battery cage is fully immobilized. As ever, be careful not to over tighten.  
 			![image](./images/19.jpg)
 		
 	1. ### Lid Section
@@ -297,13 +297,13 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 
 
 	1. ### Installing lid onto case
-		`Requirements: Power drill with M3 Hex bit, or a M3 allen key and lots of patience and a strong arm.`
+		`Requirements: Power drill with M3 Hex bit, or a M3 Allen key and lots of patience and a strong arm.`
 
 		Well done, you've made it this far!
 
 		Start by connecting the XT60 and JST balance leads of both the lid section and the power core (there, I named it!). Next place the lid section over the case, and slide it down the bolts so that it is flush to the case.
 
-		Now, take your power drill (or allen key if you're a masochist), and drill each bolt down half way. Make sure everything is lining up still, and drill them down the rest of the way.
+		Now, take your power drill (or Allen key if you're a masochist), and drill each bolt down half way. Make sure everything is lining up still, and drill them down the rest of the way.
 
 		**Warning!!!** If bolts are drilled at high speed all at one go, lots of heat will be generated through friction. This is okay but not ideal. It's best to take things slow and steady!
 
@@ -312,7 +312,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 
 
 	1. ### Handles
-		If you would like to fit a carrying handle we have two options. The heavy duty handle creates a large handle that makes the pack easy to pick up and go. The 'flexible' handle gives you two strong loops through which to thread a velcro strap, or rope, or anything you want. The 'flexible' option has the advantage of leaving room up top to place a phone for wireless charging!
+		If you would like to fit a carrying handle we have two options. The heavy duty handle creates a large handle that makes the pack easy to pick up and go. The 'flexible' handle gives you two strong loops through which to thread a Velcro strap, or rope, or anything you want. The 'flexible' option has the advantage of leaving room up top to place a phone for wireless charging!
 
 		In each case, the handles are fitted on top of the lid section and held in place by the existing M3 long bolts.
 
