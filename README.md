@@ -55,7 +55,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 		- 2x M2 nuts
 	* **Adhesives**:
 		- Cyanoacrylate (e.g., Gorilla Glue), used for places where the prints needs to be permanently bonded.
-		- E3000. This stuff holds on very hard. It sets like rubber so can be peeled off if nedded. Best of both worlds.
+		- E6000. This stuff holds on very hard. It sets like rubber so can be peeled off if nedded. Best of both worlds.
 	* **Electronic Modules**:
 		- Battery Management System (BMS)  
 			+ There are a lot of options out there, and so you'll have to get something that suits your battery configuration. My build was 3S6P with cells rated for 10 Amps. I used a 40 Amp BMS which meant that the cells would never get too taxed.
@@ -149,13 +149,13 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			![image](./images/15.jpg)
 		
 		1. #### Add BMS
-			`Requirements: BMS, heat sinks (optional), non-permanent glue (e.g. E3000), XT60 (female) connector, 3S balance lead`
+			`Requirements: BMS, heat sinks (optional), non-permanent glue (e.g. E6000), XT60 (female) connector, 3S balance lead`
 		
 			1. Solder two 16awg wires to a female XT60 connector (roughly 3" to 4"), and add the heatsinks to the BMS FETS if you expect to be pulling high current.
 			
 			1. Tin the pads on the BMS, and solder the XT60 lead to the P+ and P- pads.![image](./images/16.jpg)
 			
-			1. Next, glue the BMS to the top PLA cover sheet, positioned as shown in the next image (position matters for how it will be installed into the case later). I reccomend spreading E3000 around with a spatula!  
+			1. Next, glue the BMS to the top PLA cover sheet, positioned as shown in the next image (position matters for how it will be installed into the case later). I reccomend spreading E6000 around with a spatula!  
 			![image](./images/17.jpg)
 			
 			1. Next, you'll need to solder all the wires to the BMS. Here you can trim the wires to the optimum length. Some BMS boards have their pads labelled with their corresponding voltage, some have "B0/B-", "B1" "B2", "B3/B+". Just connect them up in ascending voltage order.
