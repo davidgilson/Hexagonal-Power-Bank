@@ -1,7 +1,12 @@
 # Hexagonal-Power-Bank
 Assembly guide and 3D printing models for my modular 18 cell power bank
 
-# Mega Power Bank Assembly Guide
+0. ## Contents
+	1. [Warnings and Disclaimers](#Warnings-and-Disclaimers)
+	2. [Introduction](#Introduction)
+	3. [Bill of Materials](#bill-of-materials)
+	4. [Assembly](#Assembly)
+	5. [Charging](#Charging)
 
 0. ## Warnings and Disclaimers
 	First and Foremost - **You are responsible for your own safety**. I am not liable for the outcomes if you follow this guide. 
