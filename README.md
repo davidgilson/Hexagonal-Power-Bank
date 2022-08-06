@@ -99,15 +99,15 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 
 1. ## Assembly
 	1. ### Casing
-		`Print STL: case-FINAL.stl.`
+		`Print: case-FINAL.stl.`
 	
 		This is the largest single piece. This is what everyting else attaches to, so no other instructions needed!
 		
 		![image](./images/08.png)
 	1. ### Cell Cage
-		`Print STL: Cell-Holder-Plate.stl, Qty 2.`
+		`Print: Cell-Holder-Plate.stl, Qty 2.`
 		
-		`Print STL: Cell-Holder-Strut.stl, Qty 12.`
+		`Print: Cell-Holder-Strut.stl, Qty 12.`
 		
 		`Electronic parts: BMS and heatsinks.`
 		
