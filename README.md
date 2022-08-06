@@ -220,7 +220,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 
 			See the images below for reference:
 			
-			![image](./images/20.jpg) ![image](./images/21.jpg)
+			![image](./images/20.jpeg) ![image](./images/21.jpg)
 
 			![image](./images/22.jpg) ![image](./images/23.jpg)
 
@@ -258,7 +258,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 
 			![image](./images/24.jpg) ![image](./images/25.jpg)
 
-			![image](./images/26.jpg) ![image](./images/27.jpg)
+			![image](./images/26.jpeg) ![image](./images/27.jpeg)
 
 		1. #### Lid Assembly
 			`Print: JST Glue in Support.stl, Meter-Holder.stl, Meter-button-cover.stl`
