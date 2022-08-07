@@ -191,7 +191,7 @@ Assembly guide and 3D printing models for my modular 18 cell power bank
 			`Tools: Wire cutters, soldering iron, solder, heat gun.`
 
 			`Requirements:`
-			* E600 Glue
+			* E6000 Glue
 			* 16 gauge wire
 			* 18 gauge wire
 			* Shrink tube (various sizes)
