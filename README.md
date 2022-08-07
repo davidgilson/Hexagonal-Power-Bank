@@ -46,7 +46,7 @@ _This was entirely designed in [Blender](https://blender.org), with heavy use of
 	
 	So, here's a guide as a **THANK YOU** to everyone!
 	
-	If you're wondering what the capacity of this unit is - well that depends on the type of cells you use! It's built for 21700 cells to get higher capacity cells, but I invite people to come and modify the design for 18650. Anyway, in my build, I used 5Ah cells configured in 3S6P. When full charged, that's 12.6V with 30Ah, which comes to **378Wh of energy**. Some people prefer to quote the nominal voltage, but I'm more interested in knowing how much energy I have when it's fully charged! Anyway, if you want the nominal stats, it's 10.5 V, multiplied by 30Ah, gives 315Wh.
+	If you're wondering what the capacity of this unit is - well that depends on the type of cells you use! It's built for 21700 cells because they can have higher capacity than 18650 (On a side note, I invite people to come and modify the design for 18650!). Anyway, in my build, I used 5Ah cells configured in 3S6P. When fully charged, that's 12.6V with 30Ah, which comes to **378Wh of energy**. Some people prefer to quote the nominal voltage, but I'm more interested in knowing how much energy I have when it's fully charged! Anyway, if you want the nominal stats, it's 10.5 V, multiplied by 30Ah, gives 315Wh. I'm not aware of any 21700 cells that are greater than 5Ah, so this is probably the highest capacity this model is going to get. Please let me know if any higher capacity 21700s hit the market!
 
 1. ## Bill of Materials (BOM)
 	To the best of my recollection, here's what you need to reproduce my build.
