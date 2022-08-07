@@ -45,6 +45,8 @@ _This was entirely designed in [Blender](https://blender.org), with heavy use of
 	I never intended to release plans for this project. However, it was gratifying to receive all the positive attention on the various Facebook groups I posted to. So much so, that various people have ended up contributing to tweaks of the design (I apologize for not keeping a list of all your names).
 	
 	So, here's a guide as a **THANK YOU** to everyone!
+	
+	If you're wondering what the capacity of this unit is - well that depends on the type of cells you use! It's built for 21700 cells to get higher capacity cells, but I invite people to come and modify the design for 18650. Anyway, in my build, I used 5Ah cells configured in 3S6P. When full charged, that's 12.6V with 30Ah, which comes to **378Wh of energy**. Some people prefer to quote the nominal voltage, but I'm more interested in knowing how much energy I have when it's fully charged! Anyway, if you want the nominal stats, it's 10.5 V, multiplied by 30Ah, gives 315Wh.
 
 1. ## Bill of Materials (BOM)
 	To the best of my recollection, here's what you need to reproduce my build.
