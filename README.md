@@ -1,6 +1,8 @@
 # Hexagonal-Power-Bank
 Assembly guide and 3D printing models for my modular 18 cell power bank
 
+_This was entirely designed in Blender, with heavy use of the "Geometry Nodes" function. See the [.blend file](Battery-Box-MK2_01.blend) for the 'source file' that created all the STL files._
+
 ![image](./images/banner-sml3.jpg)
 
 0. ## Contents
