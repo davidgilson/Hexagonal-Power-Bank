@@ -356,4 +356,5 @@ _This was entirely designed in [Blender](https://blender.org), with heavy use of
 	As a rule of thumb, always charge Lithium Ion cells at a **0.5 C rate**, no faster. In my example, I used 5Ah cells, in 3S6P configuration. This meant I had a total capacity of `6*5Ah=30Ah` (at 3S or 12.6V). Therefore, `0.5C * 30Ah = 15 Amps maximum charging rate`.
 
 	_On last thing..._
+	
 	Because the XT60 DC In/Out socket is a male socket, you will need to create a small extension lead to connect to a standard LiPo charger. Use 16 AWG cable to connect two female XT60 connectors together. Additionally, you will need a balance lead. For example, in the 3S configuration I used, you'd need a cable with a female JST-XH 4 pin connector at each end (i.e. a 3S balance lead). See the image above!
